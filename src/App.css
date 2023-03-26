@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.bgImg{
+  background-image: url('./Asset/Northern\ Lights.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

@@ -1,0 +1,92 @@
+.bgImg {
+    background-image: url(../../Asset/Northern\ Lights.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.fiveDay {
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Card.Body{
+    background-color:#6C757C;
+} */
+
+.boxColor {
+    background-color: #6C757C;
+    height: 13rem;
+    border-color: #6C757C;
+}
+
+
+
+.curCard {
+    padding-left: 25rem;
+}
+
+@media only screen and (min-width: 1024px) {
+    .cCuz {
+        padding-top: 2rem;
+    }
+
+    .butCuz {
+        padding-left: 13rem;
+        padding-top: 2rem;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+
+
+    .butCuz {
+        padding-left: 20rem;
+        padding-top: 2rem;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+    .cCuz {
+        padding-top: 2rem;
+    }
+
+    .butCuz {
+        padding-left: 3rem;
+        padding-top: 1rem;
+    }
+
+
+}
+
+@media only screen and (min-width: 425px) {
+
+    .cCuz {
+        padding-top: 2rem;
+    }
+
+    .butCuz {
+        padding-left: 7rem;
+        padding-top: 1rem;
+    }
+
+
+}
+
+@media only screen and (min-width: 375px) {
+
+    .cCuz {
+        padding-top: 2rem;
+    }
+
+    .butCuz {
+        padding-left: 5rem;
+        padding-top: 1rem;
+    }
+
+
+}
+
